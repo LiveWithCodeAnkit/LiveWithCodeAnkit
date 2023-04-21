@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" width="500" height="320" />
 
 
-## I'm a skilled web developer with expertise in React JS, Next JS, TypeScript, and Java. I love learning and working on exciting projects that help me expand my technical knowledge. I'm passionate about bringing ideas to life and always open to new opportunities. Let's connect and explore how I can assist you!.
+## Skilled web developer with expertise in React JS, Next JS, TypeScript, and Node JS. Enjoys learning and working on exciting projects to expand technical knowledge. Passionate about bringing ideas to life and open to new opportunities. Let's connect and explore how I can assist you!.
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning Next Js and Node Js
@@ -13,8 +13,12 @@
 - ⚡ Fun fact: I speak 5 languages ( English, Hindi, Haryanvi, Gujarati,Punjabi)
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/ankit-yadav-852259248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-yadav-852259248" height="30" width="40" /></a>
+<a href="https://fb.com/people/ankit-yadav/pfbid02hzxgnfj8mkw7xckpdfificzdv3f5dmau1hkbwmhewrjpekbc7dkkhd2ver8ttuhvl/?viewas&show_switched_toast=false&show_switched_tooltip=false&is_tour_dismissed=false&is_tour_completed=false&show_podcast_settings=false&show_community_review_changes=false&should_open_composer=false&badge_type=new_member&show_community_rollback_toast=false&show_community_rollback=false&show_follower_visibility_disclosure=false&bypass_exit_warning=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="people/ankit-yadav/pfbid02hzxgnfj8mkw7xckpdfificzdv3f5dmau1hkbwmhewrjpekbc7dkkhd2ver8ttuhvl/?viewas&show_switched_toast=false&show_switched_tooltip=false&is_tour_dismissed=false&is_tour_completed=false&show_podcast_settings=false&show_community_review_changes=false&should_open_composer=false&badge_type=new_member&show_community_rollback_toast=false&show_community_rollback=false&show_follower_visibility_disclosure=false&bypass_exit_warning=true" height="30" width="40" /></a>
+<a href="https://instagram.com/_live_ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_live_ankit" height="30" width="40" /></a>
+</p>
 
 <br />
 
