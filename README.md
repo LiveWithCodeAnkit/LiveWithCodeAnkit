@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: Ankit
+- 💬 Ask me about ... Web Devlopment
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak 5 languages ( English, Hindi, Haryanvi, Gujarati,Punjabi)
 
 
