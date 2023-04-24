@@ -1,6 +1,7 @@
 ### Hi  I'm Ankit Yadav  😎
+ <img align="right" alt="GIF" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="500" height="320" />
 
- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" width="500" height="320" />
+
 
 
 ## Skilled web developer with expertise in React JS, Next JS, TypeScript, and Node JS. Enjoys learning and working on exciting projects to expand technical knowledge. Passionate about bringing ideas to life and open to new opportunities. Let's connect and explore how I can assist you!.
