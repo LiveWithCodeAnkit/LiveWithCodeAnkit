@@ -40,6 +40,8 @@
 <img align="left" alt="LiveWithCodeAnkit GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiveWithCodeAnkit"/>
 
 </details>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=LiveWithCodeAnkit.LiveWithCodeAnkit" alt="LiveWithCodeAnkit :: Visitor's Count" /></p>
+
 <br>
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=LiveWithCodeAnkit&theme=react-light)
