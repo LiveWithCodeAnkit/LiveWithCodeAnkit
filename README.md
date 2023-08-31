@@ -40,7 +40,10 @@
 <img align="left" alt="LiveWithCodeAnkit GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiveWithCodeAnkit"/>
 
 </details>
+<br>
 
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=LiveWithCodeAnkit&theme=react-light)
+<br>
 
 
 
