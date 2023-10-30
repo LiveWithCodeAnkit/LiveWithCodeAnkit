@@ -6,7 +6,7 @@
 
 ## Skilled web developer with expertise in React JS, Next JS, TypeScript, and Node JS. Enjoys learning and working on exciting projects to expand technical knowledge. Passionate about bringing ideas to life and open to new opportunities. Let's connect and explore how I can assist you!.
 - ✍ You can find my projects here [portfolio]
-- 🌱 I’m currently learning Next Js 13 and Node Js
+- 🌱 I’m full stack developer 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Web Devlopment
 - 😄 Pronouns: he/him
