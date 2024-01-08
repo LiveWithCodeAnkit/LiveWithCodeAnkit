@@ -1,6 +1,7 @@
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Ankit+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
+
 ### Hi  I'm Ankit Yadav  😎
  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="500" height="320" />
 
